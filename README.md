@@ -1,3 +1,3 @@
 # CarRental-HomePage
 -Demo link
-https://github.com/DilipBist/CarRental-HomePage
+https://dilipbist.github.io/CarRental-HomePage/
